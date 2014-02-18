@@ -1,5 +1,6 @@
 {
-        "strategy": "hanaxs",
-	"host": "dshell.sapdevcenter.com:30015",
-	"root": "foo"
+    "strategy": "hanaxs",
+        "host": "54.229.24.35:30015",
+        "root": "foo",
+     "pattern": "helloworld"
 }
